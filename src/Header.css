@@ -1,0 +1,27 @@
+.header {
+    background-color: #ff0000;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    color: #fff;
+    margin: 0;
+  }
+  
+  .header nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .header nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  

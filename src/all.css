@@ -1,0 +1,12 @@
+.home, .missao, .valores, .quem-somos {
+    padding: 20px;
+    color: #fff;
+    background-color: #1a1a1a;
+    margin: 20px;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    color: #ff0000;
+  }
+  
